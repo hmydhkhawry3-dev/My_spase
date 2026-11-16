@@ -1,0 +1,11 @@
+{
+  "name": "MY SPACE",
+  "short_name": "MY SPACE",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101d38",
+  "theme_color": "#101d38",
+  "icons": []
+}
